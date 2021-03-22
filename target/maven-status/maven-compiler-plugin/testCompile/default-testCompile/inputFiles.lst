@@ -1,9 +1,0 @@
-/Users/aliihsancelik/IdeaProjects/ApiCustomerTask/src/test/java/Utilities/DataGenerator.java
-/Users/aliihsancelik/IdeaProjects/ApiCustomerTask/src/test/java/Runners/FailedTestRunner.java
-/Users/aliihsancelik/IdeaProjects/ApiCustomerTask/src/test/java/Utilities/ConfigurationReader.java
-/Users/aliihsancelik/IdeaProjects/ApiCustomerTask/src/test/java/StepDefinitions/PositiveCreateCustomerStepDefs.java
-/Users/aliihsancelik/IdeaProjects/ApiCustomerTask/src/test/java/StepDefinitions/Hooks.java
-/Users/aliihsancelik/IdeaProjects/ApiCustomerTask/src/test/java/Pojos/Customer.java
-/Users/aliihsancelik/IdeaProjects/ApiCustomerTask/src/test/java/StepDefinitions/CustomerFlowStepDefs.java
-/Users/aliihsancelik/IdeaProjects/ApiCustomerTask/src/test/java/Runners/CukesRunner.java
-/Users/aliihsancelik/IdeaProjects/ApiCustomerTask/src/test/java/StepDefinitions/NegativeCreateCustomerStepDefs.java

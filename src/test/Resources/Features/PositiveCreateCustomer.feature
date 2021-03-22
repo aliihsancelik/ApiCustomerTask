@@ -15,6 +15,9 @@
       |includes title|
       |does not include title|
 
+   # Only "does not include title" case will fail. There is a bug here because the requirement says title is optional-
+   # -but when I don't send a title in the request body, it gives 'mandatory data missing' error in the response body.
+
 
 
 
